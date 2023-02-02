@@ -38,8 +38,8 @@ public class CelestialBody {
 		myFileName = filename;
 	}
 
-	public CelestialBody(String name, double mass, double x, double y, double z) {
-	}
+	/*public CelestialBody(String name, double mass, double x, double y, double z) {
+	}*/
 
 	/**
 	 *
