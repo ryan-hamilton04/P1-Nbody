@@ -1,5 +1,5 @@
 /**
- * @author YOUR NAME THE STUDENT IN 201
+ * @author Ryan Hamilton
  * 
  * Simulation program for the NBody assignment
  */
